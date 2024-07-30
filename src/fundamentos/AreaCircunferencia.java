@@ -1,4 +1,4 @@
-package funamentos;
+package fundamentos;
 
 public class AreaCircunferencia {
 
