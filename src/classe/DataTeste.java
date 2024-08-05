@@ -15,5 +15,9 @@ public class DataTeste {
 
         d1.imprimirDataFormatada();
 
+
+        Data d2 = new Data();
+        d2.imprimirDataFormatada();
+
     }
 }
