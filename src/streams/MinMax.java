@@ -30,5 +30,7 @@ public class MinMax {
 
         System.out.println(alunos.stream().min(melhorNota).get());
         System.out.println(alunos.stream().max(piorNota).get());
+
+
     }
 }
