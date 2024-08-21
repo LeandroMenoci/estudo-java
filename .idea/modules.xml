@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/calculadora/calculadora.iml" filepath="$PROJECT_DIR$/calculadora/calculadora.iml" />
       <module fileurl="file://$PROJECT_DIR$/campo-minado/campo-minado.iml" filepath="$PROJECT_DIR$/campo-minado/campo-minado.iml" />
       <module fileurl="file://$PROJECT_DIR$/campo-minado-swing/campo-minado-swing.iml" filepath="$PROJECT_DIR$/campo-minado-swing/campo-minado-swing.iml" />
       <module fileurl="file://$PROJECT_DIR$/clinica/clinica.iml" filepath="$PROJECT_DIR$/clinica/clinica.iml" />
